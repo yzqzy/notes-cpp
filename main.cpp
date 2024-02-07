@@ -1,14 +1,5 @@
-#include <iostream>
-#include <string>
-
-using namespace std;
-
-int main()
-{
-  cout << "Hello World\n";
-  cout << "Input: ";
-  string data;
-  getline(cin, data);
-  cout << "Output: " << data << "\n\n";
-  return 0;
-}
+/**
+ * 任何人都能写出机器能看懂的代码，但只有优秀的程序员才能写出人能看懂的代码。
+ *
+ * 好程序里的空白行至少要占到总行数的 20% 以上。
+ */
